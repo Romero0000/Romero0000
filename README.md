@@ -1,5 +1,4 @@
-[![Header](assets/header.gif)](https://www.codewars.com/users/Romero0000)
-
+<img src="assets/header.gif" width="800" height="400" style="object-fit: cover;">
 ## I'm frontend developer
 I studied online courses and at the university "ЧГУ".
 
